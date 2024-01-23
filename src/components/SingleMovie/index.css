@@ -1,0 +1,24 @@
+.movieDetailsContainer {
+  background-color: black;
+  color: white;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.detailsContainer {
+  font-family: 'Roboto';
+  width: 300px;
+  margin-left: 30px;
+}
+.castContainer {
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.castIcon {
+  width: 210px;
+  padding: 5px;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+}

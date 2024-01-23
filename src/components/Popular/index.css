@@ -1,0 +1,19 @@
+.loader-container {
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.moviesList {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  height: 80vh;
+  overflow-y: scroll;
+}
+.popularMoviesContainer {
+  padding: 20px;
+  font-family: 'Roboto';
+}

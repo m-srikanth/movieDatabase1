@@ -1,0 +1,33 @@
+.nav1 {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.ul1 {
+  padding-left: 0;
+  display: flex;
+}
+li {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.Link1 {
+  text-decoration: none;
+  color: white;
+}
+.icon {
+  color: white;
+}
+.search {
+  display: flex;
+  align-items: center;
+}
+.btn1 {
+  background-color: transparent;
+  border-width: 0;
+  display: flex;
+  align-items: center;
+}
